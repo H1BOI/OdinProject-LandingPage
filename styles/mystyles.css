@@ -98,6 +98,17 @@ button {
     gap: 32px;
 }
 
+.info-box {
+    width: 100px;
+    overflow-wrap: break-word;
+}   
+
+.info-box img {
+    border-radius: 5px;
+    outline-style: solid;
+    outline-color: #3882F6;
+}
+
 .quotes {
     background-color: #E5E7EB;
     display: flex;
@@ -114,6 +125,7 @@ button {
 
 .quote-container {
     width: 600px;
+    overflow-wrap: break-word;
 }
 
 #by-forsen {
