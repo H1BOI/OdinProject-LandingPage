@@ -9,4 +9,6 @@ This page is themed around **Forsen**, a popular Twitch streamer, and demonstrat
 
 This repo helps me brush up on HTML and CSS skills while also having a little bit of fun :D
 
-This is hosted on GitHub Pages at: _________________________
+Thank you forsen and bajs for the images ![feels-okay-man](./img/FeelsOkayMan-1x.png)
+
+This is hosted on GitHub Pages at: https://h1boi.github.io/OdinProject-LandingPage/
