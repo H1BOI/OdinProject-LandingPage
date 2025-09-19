@@ -97,3 +97,21 @@ button {
     align-items: center;
     gap: 32px;
 }
+
+.quotes {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
+
+.quote-container {
+    width: 400px;
+}
+
+#by-forsen {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 900;
+}
