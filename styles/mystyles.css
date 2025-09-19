@@ -121,3 +121,26 @@ button {
     font-size: 24px;
     font-weight: 900;
 }
+
+.call-background {
+    background-color: white;
+    padding: 100px 200px;
+}
+
+.call-container {
+    background-color: #3882F6;
+
+}
+
+.call-action {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 40px 36px;
+}
+
+.call-action button {
+    border-color: white;
+}
