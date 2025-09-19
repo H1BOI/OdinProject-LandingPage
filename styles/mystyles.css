@@ -141,6 +141,25 @@ button {
     padding: 40px 36px;
 }
 
+.call-text {
+    width: 500px;
+    overflow-wrap: break-word;
+}
+
+.call-text h2 {
+    color: white;
+    text-align: left;
+}
+
 .call-action button {
     border-color: white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0px;
 }
