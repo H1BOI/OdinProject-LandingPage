@@ -52,8 +52,9 @@ button {
 }
 
 .header img {
-    width: 20px;
+    width: 30px;
     height: auto;
+    border-radius: 12px;
 }
 
 .links {
