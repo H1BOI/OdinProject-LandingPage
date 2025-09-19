@@ -51,11 +51,21 @@ button {
     margin-bottom: 30px;
 }
 
+.header img {
+    width: 20px;
+    height: auto;
+}
+
 .links {
     display: flex;
-    gap: 10px;
+    gap: 30px;
     font-size: 18px;
+}
+
+.links a {
     color: #E5E7EB;
+    text-decoration: none;
+    font-weight: 700;
 }
 
 .upper {
@@ -99,7 +109,7 @@ button {
 }
 
 .info-box {
-    width: 100px;
+    width: 150px;
     overflow-wrap: break-word;
 }   
 
